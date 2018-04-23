@@ -1,6 +1,6 @@
 GoBench is a simple bash script that does its best to automate and visualize differential benchmarking for Go projects.
 
-![sshot](https://raw.githubusercontent.com/bettercap/media/master/logo.png)
+![sshot](https://raw.githubusercontent.com/evilsocket/gobench/master/screenshot.png)
 
 ### prepare it ...
 
