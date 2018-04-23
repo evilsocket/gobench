@@ -1,8 +1,10 @@
-🐢 gobench is a simple bash script that does its best to automate and visualize differential benchmarking for Go projects.
+GoBench is a simple bash script that does its best to automate and visualize differential benchmarking for Go projects.
+
+![sshot](https://raw.githubusercontent.com/bettercap/media/master/logo.png)
 
 ### prepare it ...
 
-make sure you have `git`, `go` and [benchcmp](go get golang.org/x/tools/cmd/benchcmp).
+make sure you have `git`, `go` and `benchcmp` (`go get golang.org/x/tools/cmd/benchcmp`).
 
 ### install it ...
 
