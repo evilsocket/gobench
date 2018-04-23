@@ -1,6 +1,4 @@
-# 🐢
-
-gobench is a simple bash script that does its best to automate and visualize differential benchmarking for Go projects.
+🐢 gobench is a simple bash script that does its best to automate and visualize differential benchmarking for Go projects.
 
 ### prepare it ...
 
